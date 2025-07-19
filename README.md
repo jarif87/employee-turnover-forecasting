@@ -1,4 +1,4 @@
-# Employee Retention Prediction App
+# Employee Turnover Forecasting App
 
 This is a FastAPI web application that predicts whether an employee will stay or leave based on input features like job role match, experience, marital status, employee group, location, function, and age. The app uses a pre-trained CatBoost model and provides a user-friendly interface with dropdowns for categorical inputs and numeric fields for continuous inputs. Predictions are displayed cleanly without input data, as specified.
 
