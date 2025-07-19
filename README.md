@@ -3,7 +3,7 @@
 This is a FastAPI web application that predicts whether an employee will stay or leave based on input features like job role match, experience, marital status, employee group, location, function, and age. The app uses a pre-trained CatBoost model and provides a user-friendly interface with dropdowns for categorical inputs and numeric fields for continuous inputs. Predictions are displayed cleanly without input data, as specified.
 
 
-! [](images/image.png)
+![](images/image.png)
 ## Features
 - **User-Friendly Interface**: A modern web form with dropdowns for categorical inputs ("Yes"/"No" for binary fields, "Div.", "Marr.", etc. for marital status) and numeric inputs for experience and age.
 - **Robust Input Handling**: Accepts string inputs, validates them, and maps them to numeric values for the CatBoost model.
